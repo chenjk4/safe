@@ -22,5 +22,14 @@
         <item name="android:minHeight">25dp</item>
         <item name="android:maxWidth">60dp</item>
         <item name="android:maxHeight">60dp</item>
+</style>
+    <style name="TitleTextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:text">@string/home_title</item>
+        <item name="android:background">#3F51B5</item>
+        <item name="android:gravity">center</item>
     </style>
 </resources>

@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "com.cjk.safe.cjk360"
         minSdkVersion 13
-        targetSdkVersion 24
+        targetSdkVersion 21
         versionCode 1
         versionName "1.0"
     }
